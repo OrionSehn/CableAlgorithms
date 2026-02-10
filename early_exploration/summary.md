@@ -1,4 +1,3 @@
-
 | Algorithm Name | Description | Cable Cost | Tray Cost | Total Cost | Total Jumper Length | Visualization |
 |---|---|---|---|---|---|---|
 | Prioritized Route Dijkstra Tray+Cable Cost | placeholder | $2,056.65 | $0.00 | $2,056.65 | 96.97 (m) | <img src="animation_gifs\Sample Project with Prioritized Route Dijkstra Tray+Cable Cost.gif" style="width:500px" align="left"/>| |

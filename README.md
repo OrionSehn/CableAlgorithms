@@ -14,10 +14,18 @@ This is a compendium of various problems, constraints, and considerations for ca
 
 It is a work in progress, and is not yet complete. 
 
-[Cable Routing Compendium](https://orionsehn.github.io/CableAlgorithms/problem_def/Cable_Routing_Problem_Compendium.pdf)
+[Cable Routing Compendium](https://github.com/OrionSehn/CableAlgorithms/blob/main/problem_def/Cable_Routing_Problem_Compendium.pdf)
 
 ## Early work
 
-Here's a list of early work. Includes running routes using some simple shortest path aglorithms, with various cost functions, and some early work on defining the problem.
+Includes running routes using some simple shortest path aglorithms, with various cost functions, and some early work on defining the problem.
 
-[Early Exploration](https://orionsehn.github.io/CableAlgorithms/early_exploration/summary.md)
+[Early Exploration](https://github.com/OrionSehn/CableAlgorithms/blob/main/early_exploration/summary.md)
+
+
+## Cable Support Problem
+
+Focusing on the simplest undocumented formulation of the construction cable routing problem. 
+
+[Construction Cable Routing Problem](
+    https://github.com/OrionSehn/CableAlgorithms/blob/main/Cable Support Problem/summary.md)
