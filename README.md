@@ -7,6 +7,7 @@ It uses github pages, and serves as a place to serve results of algorithms with 
 
 <!-- main link: https://orionsehn.github.io/CableAlgorithms/ -->
 
+There is no code in this repository, but there are links to various markdown files with summaries of work, and a compendium of problems and constraints related to cable routing.
 
 ## Cable Routing Compendium
 
